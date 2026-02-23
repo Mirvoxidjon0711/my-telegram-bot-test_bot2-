@@ -1,0 +1,152 @@
+[
+  {
+    "savol": "Chinor daraxti qayerda joylashgan?",
+    "variantlar": ["Cho‘l o‘rtasida", "Tog‘ bag‘rida", "Daryo bo‘yida", "Shahar markazida"],
+    "javob": "Tog‘ bag‘rida"
+  },
+  {
+    "savol": "Qishloq va tog‘ qanday nom bilan ataladi?",
+    "variantlar": ["Ochilqishloq", "Chinorqishloq va Chinortog‘", "Bozorqishloq", "Yayloqtog‘"],
+    "javob": "Chinorqishloq va Chinortog‘"
+  },
+  {
+    "savol": "Ochil buva har safar safar oldidan nima qiladi?",
+    "variantlar": ["Namoz o‘qiydi", "Chinor bilan xayrlashadi", "Bolalarini yig‘adi", "Bozorga boradi"],
+    "javob": "Chinor bilan xayrlashadi"
+  },
+  {
+    "savol": "Chinor haqida qanday e’tiqod mavjud?",
+    "variantlar": ["Kesilsa yana o‘sadi", "Ming yoshga kirganda yonadi", "Mevasi shifo beradi", "Yomg‘ir chaqiradi"],
+    "javob": "Ming yoshga kirganda yonadi"
+  },
+  {
+    "savol": "Chinorni kim o‘tqazgan deyiladi?",
+    "variantlar": ["Ochil buva", "Bozorqul", "Uzoq ajdodlaridan biri", "Qishloq oqsoqoli"],
+    "javob": "Uzoq ajdodlaridan biri"
+  },
+  {
+    "savol": "Chinor tanasiga tig‘ tegsa nima bo‘ladi degan rivoyat bor?",
+    "variantlar": ["Yashnab ketadi", "Qon tirqiraydi", "Qurib qoladi", "Meva beradi"],
+    "javob": "Qon tirqiraydi"
+  },
+  {
+    "savol": "Chinor yonishi kerak deb belgilangan vaqt qachon edi?",
+    "variantlar": ["Ramazon oyi", "Safar oyining ikkinchi juma kechasi", "Navro‘z kuni", "Qurbon hayiti"],
+    "javob": "Safar oyining ikkinchi juma kechasi"
+  },
+  {
+    "savol": "Chinor yonishi haqidagi bashoratga kim ishonmaydi?",
+    "variantlar": ["Qishloq oqsoqollari", "Azimjon", "Ochil buva", "Cho‘ponlar"],
+    "javob": "Ochil buva"
+  },
+  {
+    "savol": "Chinor yonmay qolganidan keyin qanday gap tarqaldi?",
+    "variantlar": ["Chinor quribdi", "Chinor gapiribdi", "Chinor ko‘chibdi", "Chinor kesilibdi"],
+    "javob": "Chinor gapiribdi"
+  },
+  {
+    "savol": "Chinor gapirganida nima degan emish?",
+    "variantlar": ["Men abadiyman", "Men yonib ketsam zamon oxir bo‘ladi", "Meni kesmanglar", "Meni sug‘oringlar"],
+    "javob": "Men yonib ketsam zamon oxir bo‘ladi"
+  },
+  {
+    "savol": "Ochil buva nechta farzand va nevaralarini biladi?",
+    "variantlar": ["97", "112", "137", "150"],
+    "javob": "137"
+  },
+  {
+    "savol": "Azimjon qayerda katta bo‘lgan?",
+    "variantlar": ["Chinorqishloqda", "Buxoroda", "Begona yurtda", "Toshkentda"],
+    "javob": "Begona yurtda"
+  },
+  {
+    "savol": "Azimjon qaysi soha mutaxassisi?",
+    "variantlar": ["Paxtachilik", "Qorako‘lchilik", "Bog‘dorchilik", "Savdogarlik"],
+    "javob": "Qorako‘lchilik"
+  },
+  {
+    "savol": "Ochil buva yozuvchi bo‘lsa qanday kitob yozishini aytadi?",
+    "variantlar": ["Sevgi kitobi", "Tarix kitobi", "Xayrlashuv kitobi", "Safar kitobi"],
+    "javob": "Xayrlashuv kitobi"
+  },
+  {
+    "savol": "Ochil buva cho‘ponlarga qanday kasallik haqida ogohlantiradi?",
+    "variantlar": ["Oqsil", "Vabo", "Sil", "Chechak"],
+    "javob": "Oqsil"
+  },
+  {
+    "savol": "Bozorqul kimning o‘g‘li edi?",
+    "variantlar": ["Ochil buvaning", "Omonqul-farangning", "Jabayning", "Chori-daqqining"],
+    "javob": "Omonqul-farangning"
+  },
+  {
+    "savol": "Bozorqulning asosiy orzusi nima edi?",
+    "variantlar": ["Shoir bo‘lish", "Qorako‘lchi boy bo‘lish", "Qishloq oqsoqoli bo‘lish", "Sayohat qilish"],
+    "javob": "Qorako‘lchi boy bo‘lish"
+  },
+  {
+    "savol": "Onabibi kim edi?",
+    "variantlar": ["Bozorqulning onasi", "Bozorqulning singlisi", "Bozorqulning rafiqasi", "Cho‘ponning qizi"],
+    "javob": "Bozorqulning rafiqasi"
+  },
+  {
+    "savol": "Bek cho‘ponlarga nima va’da qiladi?",
+    "variantlar": ["Pul", "Yer", "Sovliq qo‘y", "Uy"],
+    "javob": "Sovliq qo‘y"
+  },
+  {
+    "savol": "Suruvlar qayerga haydalmoqchi edi?",
+    "variantlar": ["Cho‘lga", "Ko‘hiqofning narigi tomoniga", "Daryoga", "Shaharga"],
+    "javob": "Ko‘hiqofning narigi tomoniga"
+  },
+  {
+    "savol": "Yo‘lda cho‘ponlarga qanday ofatlar uchraydi?",
+    "variantlar": ["Suv toshqini", "Ochlik va tashnalik", "Qor bo‘roni", "Zilzila"],
+    "javob": "Ochlik va tashnalik"
+  },
+  {
+    "savol": "Chori-daqqi kim edi?",
+    "variantlar": ["Bek", "Cho‘liq", "Qishloq oqsoqoli", "Savdogar"],
+    "javob": "Cho‘liq"
+  },
+  {
+    "savol": "Cho‘ponlar orasida qanday gumon paydo bo‘ladi?",
+    "variantlar": ["Qo‘ylar o‘g‘irlanmoqda", "Ovqat zaharlangan", "Suv qurib qoladi", "Bek qaytib keladi"],
+    "javob": "Ovqat zaharlangan"
+  },
+  {
+    "savol": "Bozorqul yo‘lda nimadan qo‘rqib yashay boshlaydi?",
+    "variantlar": ["Bo‘ridan", "Ajal va xiyonatdan", "Yomg‘irdan", "Sovuqdan"],
+    "javob": "Ajal va xiyonatdan"
+  },
+  {
+    "savol": "Chinor odamlar uchun nimani eslatadi?",
+    "variantlar": ["Boylikni", "Mangulikni", "Urushni", "Qahatchilikni"],
+    "javob": "Mangulikni"
+  },
+  {
+    "savol": "Ochil buvaning soqoli qanday tasvirlanadi?",
+    "variantlar": ["Qora", "Sariq", "Oppoq", "Qisqa"],
+    "javob": "Oppoq"
+  },
+  {
+    "savol": "Azimjon kim bilan safarga chiqadi?",
+    "variantlar": ["Otasi bilan", "Yolg‘iz", "Ochil buva bilan", "Chori bilan"],
+    "javob": "Ochil buva bilan"
+  },
+  {
+    "savol": "Chinorning yoshini sanash nima hisoblanadi?",
+    "variantlar": ["Savob", "Gunoh", "Farz", "Odat"],
+    "javob": "Gunoh"
+  },
+  {
+    "savol": "Chinor qishloq hayotida qanday o‘rin tutadi?",
+    "variantlar": ["Oddiy daraxt", "Ziyoratgoh va ramz", "Mevali daraxt", "Yo‘l belgisi"],
+    "javob": "Ziyoratgoh va ramz"
+  },
+  {
+    "savol": "Bozorqulning ichki kurashi nimadan kelib chiqadi?",
+    "variantlar": ["Sevgi va boylik o‘rtasida", "Qo‘rquv va jasorat o‘rtasida", "Vatan va begona yurt o‘rtasida", "Do‘stlik va xiyonat o‘rtasida"],
+    "javob": "Sevgi va boylik o‘rtasida"
+  }
+]
