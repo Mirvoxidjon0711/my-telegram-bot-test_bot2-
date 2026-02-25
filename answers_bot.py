@@ -192,9 +192,10 @@ import pandas as pd
 from datetime import datetime
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
+import os
 
 # 1. SOZLAMALAR
-TOKEN = "8566864498:AAFkTRfhiCyJha7HAIIfU6ne934JLGe9vq8"
+TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 1496011980 # <--- O'zingizni ID raqamingizni yozing
 user_states = {}
 
